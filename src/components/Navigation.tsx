@@ -26,7 +26,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <Link href={"/"}>
-              <span className="text-2xl font-semibold text-primary">
+              <span className="text-2xl font-medium text-primary">
                 Hemant Saraf
               </span>
             </Link>

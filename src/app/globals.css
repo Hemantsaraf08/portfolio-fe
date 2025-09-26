@@ -875,3 +875,10 @@ html {
 [data-theme='light'] [data-hide-on-theme='light'] {
   display: none;
 }
+
+.owner-name {
+  font-family: var(--font-owner-name);
+  font-weight: 600;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
